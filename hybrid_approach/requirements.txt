@@ -1,0 +1,12 @@
+# Requirements for Transformer-Based Player Re-Identification
+# Compatible with PyTorch 2.x as requested
+
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+ultralytics>=8.0.196
+opencv-python>=4.5.0
+numpy>=1.21.0
+tqdm
+Pillow
+gdown
